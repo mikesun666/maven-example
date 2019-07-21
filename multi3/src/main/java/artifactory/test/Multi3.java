@@ -8,5 +8,6 @@ public class Multi3 {
         new Multi1();
         System.out.println("Hello World!");
         System.out.println("你好!");
+        System.out.println("你好!");
     }
 }
