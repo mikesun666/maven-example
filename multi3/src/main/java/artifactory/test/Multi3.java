@@ -15,5 +15,6 @@ package artifactory.test;
             System.out.println("HelloDemo");
             System.out.println("HelloDemo20190919");
             System.out.println("HelloDemo20190919");
+            System.out.println("HelloDemo20190129");
         }
 }
